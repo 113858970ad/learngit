@@ -3,11 +3,4 @@ G
 a
 a
 a
-it is free software34  v3v 
-
-
-a
-a
-a
-
-a4
+zzzz
