@@ -1,2 +1,6 @@
 Git is a distributed version control system.
-Git is free software34  v3v4
+G
+a
+a
+a
+it is free software34  v3v4
